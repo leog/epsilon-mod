@@ -1,0 +1,3 @@
+[submodule "src/ui/widgets/helloWorld"]
+	path = src/ui/widgets/helloWorld
+	url = https://github.com/leog/widget-helloWorld.git
